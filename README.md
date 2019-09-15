@@ -4,8 +4,6 @@ Online Voting System Basic Interface and working project [ HOSTED]
 
 (Report me if Website sleeping)
 
-Hosted for testing purpose at : <h2>https://rpathar7.000webhostapp.com/index1.php</h2>
-
 Distributed Online Voting system ( HTTP )
 Includes PHP files, html, css
 
